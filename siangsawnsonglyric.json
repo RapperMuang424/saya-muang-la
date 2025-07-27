@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <songs>
+    <title>Siim Leei Tung</title>
+    <composer>Zam Sian Muang</composer>
+    <audio_url>https://example.com/audio/siim_leei_tung.mp3</audio_url>
+    <lyrics>
+      <section>Verse 1</section>
+      <lines>
+        <text>Siim leei tung ah hong cawn taang e</text>
+        <color>#FF5733</color>
+        <bold boolean="true">true</bold>
+        <highlight boolean="true">false</highlight>
+        <search_highlight boolean="true">false</search_highlight>
+      </lines>
+      <lines>
+        <text>Nong it na sang in ka tial e</text>
+        <color>#33C1FF</color>
+        <bold boolean="true">false</bold>
+        <highlight boolean="true">true</highlight>
+        <search_highlight boolean="true">false</search_highlight>
+      </lines>
+    </lyrics>
+    <lyrics>
+      <section>Chorus</section>
+      <lines>
+        <text>Siangsawn Pathian, hong tung uh</text>
+        <color>#28A745</color>
+        <bold boolean="true">true</bold>
+        <highlight boolean="true">false</highlight>
+        <search_highlight boolean="true">false</search_highlight>
+      </lines>
+      <lines>
+        <text>A dawtnak kha, khua ah kei hong om uh</text>
+        <color>#6F42C1</color>
+        <bold boolean="true">false</bold>
+        <highlight boolean="true">true</highlight>
+        <search_highlight boolean="true">false</search_highlight>
+      </lines>
+    </lyrics>
+    <lyrics>
+      <section>Verse 2</section>
+      <lines>
+        <text>Laamna zawng in min khualh e</text>
+        <color>#FFC300</color>
+        <bold boolean="true">false</bold>
+        <highlight boolean="true">false</highlight>
+        <search_highlight boolean="true">true</search_highlight>
+      </lines>
+      <lines>
+        <text>Zohna leh bawipa taang zung e</text>
+        <color>#FF5733</color>
+        <bold boolean="true">true</bold>
+        <highlight boolean="true">true</highlight>
+        <search_highlight boolean="true">true</search_highlight>
+      </lines>
+    </lyrics>
+  </songs>
+  <songs>
+    <title>Nangma Hi Zei Ve</title>
+    <composer>Lal Hlei Dim</composer>
+    <audio_url>https://example.com/audio/nangma_zei_vei.mp3</audio_url>
+    <lyrics>
+      <section>Verse 1</section>
+      <lines>
+        <text>Nangma hi zei ve maw</text>
+        <color>#FF6F61</color>
+        <bold boolean="true">true</bold>
+        <highlight boolean="true">false</highlight>
+        <search_highlight boolean="true">false</search_highlight>
+      </lines>
+      <lines>
+        <text>Ka lung ah a theih lo ve</text>
+        <color>#6B5B95</color>
+        <bold boolean="true">false</bold>
+        <highlight boolean="true">true</highlight>
+        <search_highlight boolean="true">false</search_highlight>
+      </lines>
+    </lyrics>
+    <lyrics>
+      <section>Chorus</section>
+      <lines>
+        <text>Ka nuam ka lungdam takin</text>
+        <color>#88B04B</color>
+        <bold boolean="true">false</bold>
+        <highlight boolean="true">false</highlight>
+        <search_highlight boolean="true">false</search_highlight>
+      </lines>
+      <lines>
+        <text>Na gam hong sem thei maw</text>
+        <color>#FFA500</color>
+        <bold boolean="true">true</bold>
+        <highlight boolean="true">false</highlight>
+        <search_highlight boolean="true">true</search_highlight>
+      </lines>
+    </lyrics>
+  </songs>
+  <songs>
+    <title>Pathian Gam</title>
+    <composer>Thang Lian Pau</composer>
+    <audio_url>https://example.com/audio/pathian_gam.mp3</audio_url>
+    <lyrics>
+      <section>Verse 1</section>
+      <lines>
+        <text>Pathian gam a tha piak</text>
+        <color>#2E86C1</color>
+        <bold boolean="true">true</bold>
+        <highlight boolean="true">false</highlight>
+        <search_highlight boolean="true">false</search_highlight>
+      </lines>
+      <lines>
+        <text>Zam thiam a khua leng</text>
+        <color>#C0392B</color>
+        <bold boolean="true">false</bold>
+        <highlight boolean="true">true</highlight>
+        <search_highlight boolean="true">false</search_highlight>
+      </lines>
+    </lyrics>
+    <lyrics>
+      <section>Chorus</section>
+      <lines>
+        <text>Hong khua taang, hong paih uh</text>
+        <color>#117A65</color>
+        <bold boolean="true">false</bold>
+        <highlight boolean="true">false</highlight>
+        <search_highlight boolean="true">false</search_highlight>
+      </lines>
+      <lines>
+        <text>Pathian gam, ka rian uh</text>
+        <color>#7D3C98</color>
+        <bold boolean="true">true</bold>
+        <highlight boolean="true">true</highlight>
+        <search_highlight boolean="true">true</search_highlight>
+      </lines>
+    </lyrics>
+  </songs>
+  <songs>
+    <title>Van Kum Leng</title>
+    <composer>Cin Tial</composer>
+    <audio_url>https://example.com/audio/van_kum_leng.mp3</audio_url>
+    <lyrics>
+      <section>Verse 1</section>
+      <lines>
+        <text>Van kum leng ah na tawh</text>
+        <color>#FF4500</color>
+        <bold boolean="true">false</bold>
+        <highlight boolean="true">true</highlight>
+        <search_highlight boolean="true">false</search_highlight>
+      </lines>
+      <lines>
+        <text>Khua khuai lengin hong a om</text>
+        <color>#008B8B</color>
+        <bold boolean="true">true</bold>
+        <highlight boolean="true">false</highlight>
+        <search_highlight boolean="true">false</search_highlight>
+      </lines>
+    </lyrics>
+    <lyrics>
+      <section>Chorus</section>
+      <lines>
+        <text>Thil ho thei lo hi</text>
+        <color>#2ECC71</color>
+        <bold boolean="true">false</bold>
+        <highlight boolean="true">false</highlight>
+        <search_highlight boolean="true">true</search_highlight>
+      </lines>
+      <lines>
+        <text>Ka lung ah na om hna</text>
+        <color>#D35400</color>
+        <bold boolean="true">true</bold>
+        <highlight boolean="true">true</highlight>
+        <search_highlight boolean="true">true</search_highlight>
+      </lines>
+    </lyrics>
+  </songs>
+  <songs>
+    <title>Khua Taang Ah</title>
+    <composer>Zam Sian Muang</composer>
+    <audio_url>https://example.com/audio/khua_taang_ah.mp3</audio_url>
+    <lyrics>
+      <section>Verse 1</section>
+      <lines>
+        <text>Khua taang ah na si</text>
+        <color>#34495E</color>
+        <bold boolean="true">true</bold>
+        <highlight boolean="true">false</highlight>
+        <search_highlight boolean="true">false</search_highlight>
+      </lines>
+      <lines>
+        <text>Zing kham ah na ton</text>
+        <color>#9B59B6</color>
+        <bold boolean="true">false</bold>
+        <highlight boolean="true">true</highlight>
+        <search_highlight boolean="true">false</search_highlight>
+      </lines>
+    </lyrics>
+    <lyrics>
+      <section>Chorus</section>
+      <lines>
+        <text>Nang in ka hong sawh</text>
+        <color>#E74C3C</color>
+        <bold boolean="true">false</bold>
+        <highlight boolean="true">false</highlight>
+        <search_highlight boolean="true">true</search_highlight>
+      </lines>
+      <lines>
+        <text>Ka lung ah van zai</text>
+        <color>#27AE60</color>
+        <bold boolean="true">true</bold>
+        <highlight boolean="true">true</highlight>
+        <search_highlight boolean="true">true</search_highlight>
+      </lines>
+    </lyrics>
+  </songs>
+</root>
